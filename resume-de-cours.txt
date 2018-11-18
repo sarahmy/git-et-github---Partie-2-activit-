@@ -1,0 +1,9 @@
+GIT 
+
+GIT est un logiciel qui permet de versionner son code. Pour ce faire, plusieurs étapes sont nécessaires : il faut ajouter à un repository l'ensemble des documents qui y sont relatifs, d'effectuer un commit. 
+
+GITHub 
+
+Il permet de partager notemment les différentes versions d'un code. Les commndes pull et push permettent de le faire.
+ 
+
